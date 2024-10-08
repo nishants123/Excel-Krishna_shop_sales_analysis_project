@@ -1,1 +1,1 @@
-# Excel-Krishna_shop_sales_analysis_project
+# Excel-Krishna_store_sales_analysis_project
